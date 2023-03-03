@@ -9,6 +9,6 @@ class Bank {
 
 public class pr_9 {
     public static void main(String[] args) {
-        Bank obj = new Bank();
+       // Bank obj = new Bank();
     }
 }

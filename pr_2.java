@@ -1,6 +1,7 @@
 /*
         formula to find EMI     
             emi = (p * r * Math.pow(r+1,t)) / (Math.pow(r+1,t) - 1);
+        Formula to find simple interest.
             si = (p * r * n) /100;
  */
 
