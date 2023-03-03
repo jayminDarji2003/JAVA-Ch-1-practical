@@ -13,6 +13,7 @@ class Overload{
 public class pr_6_2 {
     public static void main(String[] args) {
         Overload obj = new Overload();
+        
         obj.areaOfSquare(10);
         obj.areaOfRectangle(10, 20);
     }
